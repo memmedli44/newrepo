@@ -1,0 +1,30 @@
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\human age.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\human age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\human age.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\human age.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\human age.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\code ders\human age\human age\bin\Debug\net6.0\human age.exe
+C:\Users\ASUS\Downloads\code ders\human age\human age\bin\Debug\net6.0\human age.deps.json
+C:\Users\ASUS\Downloads\code ders\human age\human age\bin\Debug\net6.0\human age.runtimeconfig.json
+C:\Users\ASUS\Downloads\code ders\human age\human age\bin\Debug\net6.0\human age.dll
+C:\Users\ASUS\Downloads\code ders\human age\human age\bin\Debug\net6.0\human age.pdb
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\human age.dll
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\refint\human age.dll
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\human age.pdb
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\human age.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\code ders\human age\human age\obj\Debug\net6.0\ref\human age.dll
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\human age.csproj.AssemblyReference.cache
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\human age.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\human age.AssemblyInfoInputs.cache
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\human age.AssemblyInfo.cs
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\human age.csproj.CoreCompileInputs.cache
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\human age.dll
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\refint\human age.dll
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\human age.pdb
+G:\Мой диск\Works at Class\human age\human age\bin\Debug\net6.0\human age.exe
+G:\Мой диск\Works at Class\human age\human age\bin\Debug\net6.0\human age.deps.json
+G:\Мой диск\Works at Class\human age\human age\bin\Debug\net6.0\human age.runtimeconfig.json
+G:\Мой диск\Works at Class\human age\human age\bin\Debug\net6.0\human age.dll
+G:\Мой диск\Works at Class\human age\human age\bin\Debug\net6.0\human age.pdb
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\human age.genruntimeconfig.cache
+G:\Мой диск\Works at Class\human age\human age\obj\Debug\net6.0\ref\human age.dll
